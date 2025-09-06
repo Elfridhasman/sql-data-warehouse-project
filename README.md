@@ -1,4 +1,4 @@
-# SQL Server Data Warehouse Project
+# Data Warehouse and Analytics Projects
 
 This repository contains a hands-on data engineering project demonstrating the construction of a data warehouse on SQL Server using the **Medallion Architecture** (Bronze, Silver, and Gold layers). The project focuses on building a robust and scalable data pipeline from raw, fragmented source data into a clean, business-ready dataset optimized for analytics.
 
@@ -61,4 +61,4 @@ This project was developed by following the excellent tutorial and instructions 
 A big thank you for the detailed and hands-on guidance in building this data warehouse from scratch.
 
 * **Video:** [SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project](https://www.youtube.com/watch?v=9GVqKuTVANE)
-* **Channel:** [Data with Bara](https://www.youtube.com/@DatawithBara)
+* **Channel:** [Data with Bara](https://www.youtube.com/@DataWithBaraa)
